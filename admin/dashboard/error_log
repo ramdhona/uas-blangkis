@@ -1,0 +1,14 @@
+[05-Jan-2025 12:34:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/config.php:15
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/config.php(15): mysqli_connect()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/header.php(3): include('/home/rcrafted/...')
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/dashboard/index.php(2): include('/home/rcrafted/...')
+#3 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 15
+[05-Jan-2025 12:35:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/config.php:15
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/config.php(15): mysqli_connect()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/header.php(3): include('/home/rcrafted/...')
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/dashboard/index.php(2): include('/home/rcrafted/...')
+#3 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 15

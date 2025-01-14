@@ -1,0 +1,837 @@
+[13-Jan-2025 03:56:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 03:56:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 03:56:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 03:57:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 03:57:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 03:57:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 03:57:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 05:11:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 05:11:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 05:11:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 05:11:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 05:13:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 07:45:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 07:45:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:09:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:09:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:09:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:09:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:09:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:10:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:10:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:10:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:10:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 08:11:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 09:49:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 11:18:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.purchase_history' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:78
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 78
+[13-Jan-2025 13:15:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:15:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:19:24 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:19:24 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:19:24 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 45
+[13-Jan-2025 13:19:25 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:19:25 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:19:25 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 45
+[13-Jan-2025 13:19:26 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:19:26 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:19:26 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:19:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 45
+[13-Jan-2025 13:19:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:22:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2
+[13-Jan-2025 13:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:23:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:27:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:27:09 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:27:09 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:27:09 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:27:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 46
+[13-Jan-2025 13:27:55 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:27:55 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:27:55 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:27:55 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 45
+[13-Jan-2025 13:28:10 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:28:10 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:28:10 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:28:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 45
+[13-Jan-2025 13:29:56 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:29:57 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:30:11 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:33:17 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:33:17 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:33:17 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 45
+[13-Jan-2025 13:33:45 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:33:45 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:33:45 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:33:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 45
+[13-Jan-2025 13:36:13 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:13 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:13 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 44
+[13-Jan-2025 13:36:18 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:18 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:18 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:18 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 44
+[13-Jan-2025 13:36:20 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:20 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:20 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 44
+[13-Jan-2025 13:36:30 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:30 UTC] PHP Warning:  include(/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:30 UTC] PHP Warning:  include(): Failed opening '/home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/../tecnickcom/tcpdf/tcpdf.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php on line 576
+[13-Jan-2025 13:36:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/export_pdf.php on line 44
+[13-Jan-2025 13:41:01 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:56:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 13:56:38 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:56:39 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:56:44 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:57:15 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:58:16 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:58:17 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 13:59:18 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(82): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:02:22 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(86): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:02:25 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(86): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:02:27 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(86): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(86): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:03:04 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(86): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:08:29 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(86): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:08:59 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(86): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:09:59 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(86): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:11:51 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:11:55 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:12:07 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:16:23 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:16:28 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:19:22 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(67): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(67): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 14:19:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 14:19:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 14:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 19
+[13-Jan-2025 14:24:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 17
+[13-Jan-2025 14:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 17
+[13-Jan-2025 14:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 17
+[13-Jan-2025 14:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 17
+[13-Jan-2025 14:34:36 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 22
+[13-Jan-2025 14:44:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:44:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:44:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:44:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:45:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:45:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:45:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:45:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:45:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:45:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:46:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:46:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:46:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:46:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:48:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:48:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.member' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php:61
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php(61): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php on line 61
+[13-Jan-2025 14:48:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php:56
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 56
+[13-Jan-2025 14:50:15 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 60
+[13-Jan-2025 14:50:15 UTC] PHP Warning:  Undefined array key "idkonsumen" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 61
+[13-Jan-2025 14:50:15 UTC] PHP Warning:  Undefined array key "tgl" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 62
+[13-Jan-2025 14:50:15 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 14:50:15 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 14:50:15 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 14:50:51 UTC] PHP Warning:  Undefined array key "tanggal_pembayaran" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 62
+[13-Jan-2025 14:50:51 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 14:50:51 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 14:50:51 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 14:53:31 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 14:53:31 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 14:53:31 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 15:05:39 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 15:05:39 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 15:05:39 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 15:09:01 UTC] PHP Warning:  Array to string conversion in /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php on line 16
+[13-Jan-2025 15:09:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php:18
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php(18): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php on line 18
+[13-Jan-2025 15:10:09 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 15:10:09 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 15:10:09 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 15:10:13 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 15:10:13 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 15:10:13 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 15:10:53 UTC] PHP Warning:  Array to string conversion in /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php on line 16
+[13-Jan-2025 15:10:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.tranksaksi' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php:18
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php(18): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php on line 18
+[13-Jan-2025 15:20:04 UTC] PHP Warning:  Undefined variable $produk_id in /home/rcrafted/blangkis.rcrafted.com/admin/order/tambah.php on line 30
+[13-Jan-2025 15:20:04 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 15:20:04 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 15:20:04 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 15:20:04 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 15:20:04 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 15:20:04 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 15:23:10 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 15:23:10 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 15:23:10 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 15:23:10 UTC] PHP Warning:  Undefined array key "produk" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 66
+[13-Jan-2025 15:23:10 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 72
+[13-Jan-2025 15:23:10 UTC] PHP Warning:  Undefined array key "id" in /home/rcrafted/blangkis.rcrafted.com/admin/order/index.php on line 73
+[13-Jan-2025 15:27:28 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 22
+[13-Jan-2025 15:29:40 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 22
+[13-Jan-2025 15:29:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rcrafted_blangkis.order' doesn't exist in /home/rcrafted/blangkis.rcrafted.com/admin/order/detail.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/detail.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/detail.php on line 7
+[13-Jan-2025 15:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 23
+[13-Jan-2025 15:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 23
+[13-Jan-2025 15:46:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 23
+[13-Jan-2025 15:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 23
+[13-Jan-2025 15:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 26
+[13-Jan-2025 15:55:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 35
+[13-Jan-2025 15:57:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:8
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php(8): mysqli_connect()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 8
+[13-Jan-2025 15:57:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:8
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php(8): mysqli_connect()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 8
+[13-Jan-2025 15:57:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 30
+[13-Jan-2025 15:58:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 30
+[13-Jan-2025 15:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 30
+[13-Jan-2025 16:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 26
+[13-Jan-2025 16:14:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 18
+[13-Jan-2025 16:14:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 18
+[13-Jan-2025 16:15:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rcrafted_blangkis'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:9
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 9
+[13-Jan-2025 16:15:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rcrafted_blangkis'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:9
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 9
+[13-Jan-2025 16:15:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rcrafted_blangkis'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:9
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 9
+[13-Jan-2025 16:15:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rcrafted_blangkis'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:9
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 9
+[13-Jan-2025 16:15:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rcrafted_blangkis'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php:9
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 9
+[13-Jan-2025 16:19:57 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 9
+[13-Jan-2025 16:22:21 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:22:22 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:22:22 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:22:30 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:22:34 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:24:29 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:33:10 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(67): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 16:37:41 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(67): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 16:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "XMLWriter" not found in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php:7
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(576): include()
+#1 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#2 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php(29): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(287): PhpOffice\PhpSpreadsheet\Writer\Xlsx\ContentTypes->writeContentTypes()
+#4 /home/rcrafted/blangkis.rcrafted.com/admin/order/export_excel.php(67): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save()
+#5 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 7
+[13-Jan-2025 16:37:56 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:47:09 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:47:10 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:48:25 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[13-Jan-2025 16:48:26 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 12
+[14-Jan-2025 03:48:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2) in /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2
+[14-Jan-2025 03:59:59 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 77
+[14-Jan-2025 04:00:24 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 77
+[14-Jan-2025 04:00:32 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/rcrafted/blangkis.rcrafted.com/admin/order/proses_edit.php on line 77

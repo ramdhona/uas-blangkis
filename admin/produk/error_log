@@ -1,0 +1,19 @@
+[14-Jan-2025 04:51:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2) in /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2
+[14-Jan-2025 04:53:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2) in /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2
+[14-Jan-2025 04:53:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2) in /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2
+[14-Jan-2025 04:54:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2) in /home/rcrafted/blangkis.rcrafted.com/admin/config.php on line 2
+[14-Jan-2025 04:55:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/produk/tambah.php:10
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/produk/tambah.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/produk/tambah.php on line 10
+[14-Jan-2025 04:55:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/produk/tambah.php:10
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/produk/tambah.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/produk/tambah.php on line 10
+[14-Jan-2025 04:55:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rcrafted/blangkis.rcrafted.com/admin/produk/tambah.php:10
+Stack trace:
+#0 /home/rcrafted/blangkis.rcrafted.com/admin/produk/tambah.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/rcrafted/blangkis.rcrafted.com/admin/produk/tambah.php on line 10
